@@ -1,0 +1,29 @@
+<!-- This line is a comment. -->
+
+<head>
+  <title>Tom's Project</title>
+</head>
+
+
+<h1>Stage 1 Learnings</h1>
+
+Make text <b>bold</b>
+Make text <i>italic</i>  <!-- can also use em tag-->
+
+<p>This is a paragraph (block)</p>
+
+
+<a href="https://www.udacity.com/course/viewer#!/c-ud721/l-3508959201/e-48329854/m-48480496">This video</a>
+  is from class.
+
+<br>
+<br>
+
+<a href="http://www.rapidmaza.com/scraps/Funny/funny13.jpg">Here is a link to a picture of a cat.</a>
+<br>
+And here is that picture:
+<br>
+<img src="http://www.rapidmaza.com/scraps/Funny/funny13.jpg">
+
+<br>
+
